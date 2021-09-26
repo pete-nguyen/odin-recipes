@@ -1,0 +1,1 @@
+Project displays links to multiple fall recipes. Each link brings the user to a webpage that displays an image, description, ingredients, and steps. Tags such as headers, paragraphs, lists, images, etc. along with certain attributes were used.
