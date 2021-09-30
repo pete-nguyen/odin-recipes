@@ -1,0 +1,17 @@
+#title {
+    background-color: orange;
+    color: brown;
+    font-weight: bold;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+}
+
+.link {
+
+    background-color: olivedrab;
+    color: brown;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
